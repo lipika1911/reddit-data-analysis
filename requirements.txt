@@ -1,0 +1,6 @@
+streamlit
+praw
+pandas
+matplotlib
+textblob
+python-dotenv
